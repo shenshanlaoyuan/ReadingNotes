@@ -1,12 +1,12 @@
 ﻿{
    
-   "title" : "读书笔记",
+   "title" : "ReadingNotes",
     "description" : "读书笔记,学习心得",
     "author" : "深山老猿",
     "language" : "zh-hans",
 	"links" : {
         "sidebar" : {
-            "我的博客" : "http://shenshanlaoyuan.com"
+            "MyBlog" : "http://shenshanlaoyuan.com"
         }
     },
 
