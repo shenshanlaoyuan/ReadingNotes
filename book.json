@@ -1,0 +1,47 @@
+﻿{
+   
+   "title" : "ReadingNotes",
+    "description" : "读书笔记,学习心得",
+    "author" : "深山老猿",
+    "language" : "zh-hans",
+	"links" : {
+        "sidebar" : {
+            "我的博客" : "http://shenshanlaoyuan.com"
+        }
+    },
+
+    "plugins": [
+        "disqus",
+        "github",
+        "tbfed-pagefooter",
+        "splitter",
+        "toggle-chapters"
+
+    ],
+
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "readingnotes"
+        },
+        "github": {
+        	"url": "https://github.com/shenshanlaoyuan/ReadingNotes"
+    	},
+    	"tbfed-pagefooter": {
+            "copyright":"Copyright &copy 深山老猿 2016",
+            "modify_label": " 文件最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "instapaper": false,
+             "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+        }
+    }
+}
