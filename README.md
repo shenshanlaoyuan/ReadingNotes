@@ -1,7 +1,7 @@
 # 读书笔记
 [![Gitter](https://badges.gitter.im/shenshanlaoyuan/ReadingNotes.svg)](https://gitter.im/shenshanlaoyuan/ReadingNotes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)](https://github.com/shenshanlaoyuan/ReadingNotes/blob/master/LICENSE)
 [![label](https://img.shields.io/github/issues-raw/badges/shields/website.svg?maxAge=2592000)](https://github.com/shenshanlaoyuan/ReadingNotes/issues)
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)](https://github.com/shenshanlaoyuan/ReadingNotes/blob/master/LICENSE)
 
 > 黑发不知勤学早，白首方悔读书迟
 
