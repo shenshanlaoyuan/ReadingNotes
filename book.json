@@ -11,7 +11,7 @@
     },
 
     "plugins": [
-        "disqus",
+        
         "github",
         "tbfed-pagefooter",
         "splitter",
@@ -20,10 +20,8 @@
     ],
 
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "readingnotes"
-        },
-        "github": {
+        
+       "github": {
         	"url": "https://github.com/shenshanlaoyuan/ReadingNotes"
     	},
     	"tbfed-pagefooter": {
@@ -33,9 +31,9 @@
         },
         "sharing": {
             "weibo": true,
-            "facebook": true,
-            "twitter": true,
-            "google": true,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
             "instapaper": false,
              "vk": false,
             "all": [
