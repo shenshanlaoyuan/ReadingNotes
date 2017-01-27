@@ -36,6 +36,8 @@
     * [第16章 设计范式](Java编程思想/第16章设计范式.md)
     * [第17章 项目](Java编程思想/第17章项目.md)
     * [附录](Java编程思想/附录.md)
+* [JavaScript高级程序设计](JavaScript高级程序设计/README.md)
+    * [第1章 JavaScript简介](JavaScript高级程序设计/第1章JavaScript简介.md)
 * [Effective Java](EffectiveJava/README.md)
     * [第1章 引言](EffectiveJava/第1章引言.md)
     * [第2章 创建和销毁对象](EffectiveJava/第2章创建和销毁对象.md)
