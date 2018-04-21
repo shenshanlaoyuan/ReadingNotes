@@ -2,131 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ec0bf7-06f1-4e27-a2f1-e5b494cb5945" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第10章Android的消息机制.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第11章Android的线程和线程池.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第12章Bitmap的加载和Cache.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第13章综合技术.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第14章JNI和NDK编程.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第15章Android性能优化.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第1章Activity生命周期和启动模式.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第2章IPC机制.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第3章View的事件体系.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第4章View的工作原理.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第5章理解RemoteViews.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第6章Android的Drawable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第7章Android动画深入分析.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第8章理解Window和WindowManager.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第9章四大组件的工作过程.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第10章并发.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第11章序列化.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第1章引言.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第2章创建和销毁对象.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第3章对于所有对象都通用的方法.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第4章类和接口.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第5章泛型.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第6章枚举和注解.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第7章方法.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第8章通用程序设计.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第9章异常.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第10章DOM.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第11章DOM扩展.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第12章DOM2和DOM3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第13章事件.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第14章表单脚本.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第15章使用Canvas绘图.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第16章HTML5脚本编程.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第17章错误处理与调试.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第18章JavaScript与XML.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第19章E4X.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第1章JavaScript简介.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第20章JOSN.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第21章Ajax与Comet.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第22章高级技巧.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第23章离线应用与客户端存储.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第24章最佳实践.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第25章新兴的API.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第2章在HTML中使用JavaScript.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第3章基本概念.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第4章变量、作用域和内存问题.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第5章引用类型.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第6章面向对象的程序设计.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第7章函数表达式.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第8章BOM.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第9章客户端检测.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第10章JavaIO系统.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第11章运行期类型鉴定.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第12章传递和返回对象.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第13章创建窗口和程序片.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第14章多线程.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第15章网络编程.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第16章设计范式.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第17章项目.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第1章对象入门.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第2章一切都是对象.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第3章控制程序流程.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第4章初始化和清除.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第5章隐藏实施过程.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第6章类再生.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第7章多形性.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第8章对象容纳.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/第9章违例差错控制.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/Java编程思想/附录.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-fontsettings/website.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-github/plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/ebook.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/website.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-livereload/plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-lunr/lunr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-lunr/search-lunr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/lunr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search-engine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-search/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-sharing/buttons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-splitter/splitter.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-splitter/splitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-tbfed-pagefooter/footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-toggle-chapters/toggle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-toggle-chapters/toggle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/images/apple-touch-icon-precomposed-152.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/theme.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第1章引言.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第2章实例研究：设计一个文档编辑器.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第3章创建型模式.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第4章结构型模式.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第10章简化函数调用.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第11章处理概括关系.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第12章大型重构.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第13章重构，复用与现实.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第14章重构工具.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第15章总结.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第1章第一个案例.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第2章重构的原则.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第3章代码的坏味道.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第4章构筑测试体系.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第5章重构列表.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第6章重新组织函数.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第7章在对象之间搬移特性.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第8章重新组织数据.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第9章简化条件表达式.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book.json" afterPath="$PROJECT_DIR$/book.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/colors/LICENSE" afterPath="$PROJECT_DIR$/node_modules/colors/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/colors/README.md" afterPath="$PROJECT_DIR$/node_modules/colors/README.md" />
@@ -195,12 +70,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="book.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/book.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+            <state relative-caret-position="249">
+              <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -210,6 +85,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -256,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,6 +148,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -361,7 +239,8 @@
       <workItem from="1492766647253" duration="342000" />
       <workItem from="1493103984938" duration="46000" />
       <workItem from="1517016931468" duration="8000" />
-      <workItem from="1524275829063" duration="3883000" />
+      <workItem from="1524275829063" duration="4440000" />
+      <workItem from="1524311267530" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="activity">
       <created>1487407862166</created>
@@ -412,33 +291,40 @@
       <option name="project" value="LOCAL" />
       <updated>1524280024315</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="更改插件相关配置">
+      <created>1524282167975</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1524282167975</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7762000" />
+    <option name="totallyTimeSpent" value="8409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,13 +341,22 @@
     <MESSAGE value="笔记排序" />
     <MESSAGE value="添加插件" />
     <MESSAGE value="添加插件配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加插件配置" />
+    <MESSAGE value="更改插件相关配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="更改插件相关配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript高级程序设计/第1章JavaScript简介.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -604,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        <state relative-caret-position="249">
+          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
           <folding />
         </state>
       </provider>

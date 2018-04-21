@@ -52,7 +52,7 @@
         "donate": {
           "wechat": "http://7xs5l8.com1.z0.glb.clouddn.com/%E5%BE%AE1.png",
           "alipay": "http://7xs5l8.com1.z0.glb.clouddn.com/%E6%94%AF.png",
-          "title": "你一赞赏我就写的更来劲了",
+          "title": "",
           "button": "赏",
           "alipayText": "支付宝打赏",
           "wechatText": "微信打赏"
