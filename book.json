@@ -18,10 +18,9 @@
         "toggle-chapters",
         "-lunr", "-search", "search-plus",
         "baidu","simple-page-toc",
-        "prism",
         "-highlight",
         "emphasize","expandable-chapters-small",
-      "donate","anchor-navigation-ex","rss"
+      "donate","rss"
 
     ],
 
@@ -50,11 +49,6 @@
         "baidu": {
         "token": "49a4c174aa8d0ae9013634317dab9a4d"
         },
-        "prism": {
-          "css": [
-            "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
-          ]
-        },
         "donate": {
           "wechat": "http://7xs5l8.com1.z0.glb.clouddn.com/%E5%BE%AE1.png",
           "alipay": "http://7xs5l8.com1.z0.glb.clouddn.com/%E6%94%AF.png",
@@ -62,13 +56,6 @@
           "button": "赏",
           "alipayText": "支付宝打赏",
           "wechatText": "微信打赏"
-        },
-        "anchor-navigation-ex": {
-          "isRewritePageTitle": true,
-          "isShowTocTitleIcon": true,
-          "tocLevel1Icon": "fa fa-hand-o-right",
-          "tocLevel2Icon": "fa fa-hand-o-right",
-          "tocLevel3Icon": "fa fa-hand-o-right"
         },
         "rss": {
           "title": "深山老猿的读书笔记",

@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[深山老猿的读书笔记]]></title>
+        <description><![CDATA[读书笔记,学习心得]]></description>
+        <link>https://readingnotes.shenshanlaoyuan.com/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 21 Apr 2018 03:35:55 GMT</lastBuildDate>
+        <atom:link href="https://readingnotes.shenshanlaoyuan.com/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[深山老猿]]></author>
+        <managingEditor><![CDATA[me@shenshanlaoyuan.com]]></managingEditor>
+        <webMaster><![CDATA[me@shenshanlaoyuan.com]]></webMaster>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[读书笔记]]></title>
+            <description><![CDATA[Join the chat at https://gitter.im/shenshanlaoyuan/ReadingNotes
+label
+Hex.pm]]></description>
+            <link>https://readingnotes.shenshanlaoyuan.com/</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Java编程思想]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第1章 对象入门]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第1章对象入门.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第1章对象入门.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第2章 一切都是对象]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第2章一切都是对象.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第2章一切都是对象.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第3章 控制程序流程]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第3章控制程序流程.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第3章控制程序流程.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第4章 初始化和清除]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第4章初始化和清除.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第4章初始化和清除.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第5章 隐藏实施过程]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第5章隐藏实施过程.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第5章隐藏实施过程.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第6章 类再生]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第6章类再生.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第6章类再生.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第7章 多形性]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第7章多形性.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第7章多形性.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第8章 对象容纳]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第8章对象容纳.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第8章对象容纳.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第9章 违例差错控制]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第9章违例差错控制.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第9章违例差错控制.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第10章 Java IO系统]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第10章JavaIO系统.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第10章JavaIO系统.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第11章 运行期类型鉴定]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第11章运行期类型鉴定.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第11章运行期类型鉴定.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第12章 传递和返回对象]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第12章传递和返回对象.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第12章传递和返回对象.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第13章 创建窗口和程序片]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第13章创建窗口和程序片.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第13章创建窗口和程序片.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第14章 多线程]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第14章多线程.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第14章多线程.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第15章 网络编程]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第15章网络编程.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第15章网络编程.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第16章 设计范式]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第16章设计范式.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第16章设计范式.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第17章 项目]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/第17章项目.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/第17章项目.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[附录]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Java编程思想/附录.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Java编程思想/附录.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[设计模式：可复用面向对象软件的基础]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第1章 引言]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第1章引言.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第1章引言.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第2章 实例研究：设计一个文档编辑器]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第2章实例研究：设计一个文档编辑器.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第2章实例研究：设计一个文档编辑器.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第3章 创建型模式]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第3章创建型模式.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第3章创建型模式.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第4章 结构型模式]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第4章结构型模式.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第4章结构型模式.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第5章 行为模式]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第5章行为模式.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第5章行为模式.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第6章 结论]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第6章结论.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/设计模式：可复用面向对象软件的基础/第6章结论.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript高级程序设计]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第1章 JavaScript简介]]></title>
+            <description><![CDATA[Netscape 公司为了搭上媒体热炒的 java 的顺风车，临时把 Livecript 改名 Javascript 。]]></description>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第1章JavaScript简介.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第1章JavaScript简介.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第2章 在HTML中使用JavaScript]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第2章在HTML中使用JavaScript.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第2章在HTML中使用JavaScript.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第3章 基本概念]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第3章基本概念.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第3章基本概念.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第4章 变量、作用域和内存问题]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第4章变量、作用域和内存问题.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第4章变量、作用域和内存问题.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第5章 引用类型]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第5章引用类型.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第5章引用类型.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第6章 面向对象的程序设计]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第6章面向对象的程序设计.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第6章面向对象的程序设计.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第7章 函数表达式]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第7章函数表达式.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第7章函数表达式.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第8章 BOM]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第8章BOM.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第8章BOM.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第9章 客户端检测]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第9章客户端检测.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第9章客户端检测.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第10章 DOM]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第10章DOM.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第10章DOM.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第11章 DOM扩展]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第11章DOM扩展.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第11章DOM扩展.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第12章 DOM2和DOM3]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第12章DOM2和DOM3.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第12章DOM2和DOM3.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第13章 事件]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第13章事件.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第13章事件.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第14章 表单脚本]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第14章表单脚本.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第14章表单脚本.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第15章 使用Canvas绘图]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第15章使用Canvas绘图.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第15章使用Canvas绘图.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第16章 HTML5脚本编程]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第16章HTML5脚本编程.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第16章HTML5脚本编程.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第17章 错误处理与调试]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第17章错误处理与调试.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第17章错误处理与调试.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第18章 JavaScript与XML]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第18章JavaScript与XML.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第18章JavaScript与XML.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第19章 E4X]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第19章E4X.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第19章E4X.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第20章 JOSN]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第20章JOSN.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第20章JOSN.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第21章 Ajax与Comet]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第21章Ajax与Comet.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第21章Ajax与Comet.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第22章 高级技巧]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第22章高级技巧.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第22章高级技巧.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第23章 离线应用与客户端存储]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第23章离线应用与客户端存储.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第23章离线应用与客户端存储.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第24章 最佳实践]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第24章最佳实践.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第24章最佳实践.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第25章 新兴的API]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第25章新兴的API.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/JavaScript高级程序设计/第25章新兴的API.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Effective Java]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第1章 引言]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第1章引言.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第1章引言.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第2章 创建和销毁对象]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第2章创建和销毁对象.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第2章创建和销毁对象.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第3章 对于所有对象都通用的方法]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第3章对于所有对象都通用的方法.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第3章对于所有对象都通用的方法.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第4章 类和接口]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第4章类和接口.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第4章类和接口.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第5章 泛型]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第5章泛型.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第5章泛型.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第6章 枚举和注解]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第6章枚举和注解.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第6章枚举和注解.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第7章 方法]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第7章方法.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第7章方法.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第8章 通用程序设计]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第8章通用程序设计.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第8章通用程序设计.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第9章 异常]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第9章异常.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第9章异常.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第10章 并发]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第10章并发.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第10章并发.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第11章 序列化]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第11章序列化.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/EffectiveJava/第11章序列化.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[重构 改善既有代码的设计]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第1章 重构，第一个案例]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第1章第一个案例.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第1章第一个案例.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第2章 重构的原则]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第2章重构的原则.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第2章重构的原则.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第3章 代码的坏味道]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第3章代码的坏味道.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第3章代码的坏味道.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第4章 构筑测试体系]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第4章构筑测试体系.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第4章构筑测试体系.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第5章 重构列表]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第5章重构列表.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第5章重构列表.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第6章 重新组织函数]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第6章重新组织函数.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第6章重新组织函数.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第7章 在对象之间搬移特性]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第7章在对象之间搬移特性.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第7章在对象之间搬移特性.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第8章 重新组织数据]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第8章重新组织数据.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第8章重新组织数据.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第9章 简化条件表达式]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第9章简化条件表达式.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第9章简化条件表达式.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第10章 简化函数调用]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第10章简化函数调用.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第10章简化函数调用.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第11章 处理概括关系]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第11章处理概括关系.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第11章处理概括关系.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第12章 大型重构]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第12章大型重构.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第12章大型重构.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第13章 重构，复用与现实]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第13章重构，复用与现实.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第13章重构，复用与现实.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第14章 重构工具]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第14章重构工具.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第14章重构工具.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第15章 总结]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第15章总结.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/重构-改善既有代码的设计/第15章总结.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[代码整洁之道]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/代码整洁之道/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/代码整洁之道/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第1章 整洁代码]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第1章整洁代码.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第1章整洁代码.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第2章 有意义的命名]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第2章有意义的命名.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第2章有意义的命名.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第3章 函数]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第3章函数.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第3章函数.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第4章 注释]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第4章注释.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第4章注释.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第5章 格式]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第5章格式.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第5章格式.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第6章 对象和数据结构]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第6章对象和数据结构.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第6章对象和数据结构.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第7章 错误处理]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第7章错误处理.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/代码整洁之道/第7章错误处理.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Android开发艺术探索]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第1章 Activity生命周期和启动模式]]></title>
+            <description><![CDATA[Activity]]></description>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第1章Activity生命周期和启动模式.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第1章Activity生命周期和启动模式.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第2章 IPC机制]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第2章IPC机制.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第2章IPC机制.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第3章 View的事件体系]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第3章View的事件体系.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第3章View的事件体系.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第4章 View的工作原理]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第4章View的工作原理.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第4章View的工作原理.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第5章 理解RemoteViews]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第5章理解RemoteViews.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第5章理解RemoteViews.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第6章 Android的Drawable]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第6章Android的Drawable.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第6章Android的Drawable.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第7章 Android动画深入分析]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第7章Android动画深入分析.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第7章Android动画深入分析.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第8章 理解Window和WindowManager]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第8章理解Window和WindowManager.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第8章理解Window和WindowManager.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第9章 四大组件的工作过程]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第9章四大组件的工作过程.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第9章四大组件的工作过程.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第10章 Android的消息机制]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第10章Android的消息机制.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第10章Android的消息机制.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第11章 Android的线程和线程池]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第11章Android的线程和线程池.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第11章Android的线程和线程池.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第12章 Bitmap的加载和Cache]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第12章Bitmap的加载和Cache.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第12章Bitmap的加载和Cache.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第13章 综合技术]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第13章综合技术.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第13章综合技术.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第14章 JNI和NDK编程]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第14章JNI和NDK编程.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第14章JNI和NDK编程.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第15章 Android性能优化]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第15章Android性能优化.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/Android开发艺术探索/第15章Android性能优化.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+    </channel>
+</rss>
