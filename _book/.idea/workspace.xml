@@ -74,8 +74,8 @@
       <file leaf-file-name="book.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/book.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+            <state relative-caret-position="667">
+              <caret line="76" column="39" lean-forward="true" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -240,7 +240,8 @@
       <workItem from="1493103984938" duration="46000" />
       <workItem from="1517016931468" duration="8000" />
       <workItem from="1524275829063" duration="4440000" />
-      <workItem from="1524311267530" duration="90000" />
+      <workItem from="1524311267530" duration="340000" />
+      <workItem from="1524538857114" duration="131000" />
     </task>
     <task id="LOCAL-00001" summary="activity">
       <created>1487407862166</created>
@@ -298,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524282167975</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="修改打赏插件设置">
+      <created>1524311557446</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1524311557446</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8409000" />
+    <option name="totallyTimeSpent" value="8790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -342,13 +350,22 @@
     <MESSAGE value="添加插件" />
     <MESSAGE value="添加插件配置" />
     <MESSAGE value="更改插件相关配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改插件相关配置" />
+    <MESSAGE value="修改打赏插件设置" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改打赏插件设置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -499,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        <state relative-caret-position="667">
+          <caret line="76" column="39" lean-forward="true" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
           <folding />
         </state>
       </provider>
