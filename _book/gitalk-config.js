@@ -4,9 +4,9 @@
  
 
 var gitalk = new Gitalk({
-    "clientID": "941df607ad0d8a39b204",
-    "clientSecret": "bd5e6cd6336fcebff410676a7c5d41235030a2f7",
-    "repo": "InterviewBook",
+    "clientID": "ef40df0c834d15b31b6c",
+    "clientSecret": "783e4d7639da6c06c72eb76a16f6789e766a3669",
+    "repo": "ReadingNotes",
     "owner": "shenshanlaoyuan",
     "admin": ["shenshanlaoyuan"],
     "id": md5(location.href),

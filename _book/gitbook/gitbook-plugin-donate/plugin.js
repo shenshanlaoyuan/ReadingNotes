@@ -38,9 +38,9 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 			html = html.concat(['</div>', '</div>',
 				'\n\n<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">',
         '\n\n<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>',
-        '\n\n<script src="http://shenshanlaoyuan.com/InterviewBook/md5.min.js"></script>',
+        '\n\n<script src="https://readingnotes.shenshanlaoyuan.com/md5.min.js"></script>',
         '\n\n<div id="gitalk-container"></div>',
-        '\n\n<script src="http://shenshanlaoyuan.com/InterviewBook/gitalk-config.js"></script>'
+        '\n\n<script src="https://readingnotes.shenshanlaoyuan.com/gitalk-config.js"></script>'
         ]);
 			$('.page-inner section.normal:last').after(html.join(''));
 		}

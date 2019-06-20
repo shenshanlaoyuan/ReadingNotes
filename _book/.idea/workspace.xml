@@ -2,7 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ec0bf7-06f1-4e27-a2f1-e5b494cb5945" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book.json" afterPath="$PROJECT_DIR$/book.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/rss" afterPath="$PROJECT_DIR$/_book/rss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/index.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第10章Android的消息机制.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第10章Android的消息机制.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第11章Android的线程和线程池.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第11章Android的线程和线程池.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第12章Bitmap的加载和Cache.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第12章Bitmap的加载和Cache.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第13章综合技术.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第13章综合技术.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第14章JNI和NDK编程.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第14章JNI和NDK编程.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第15章Android性能优化.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第15章Android性能优化.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第1章Activity生命周期和启动模式.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第1章Activity生命周期和启动模式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第2章IPC机制.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第2章IPC机制.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第3章View的事件体系.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第3章View的事件体系.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第4章View的工作原理.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第4章View的工作原理.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第5章理解RemoteViews.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第5章理解RemoteViews.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第6章Android的Drawable.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第6章Android的Drawable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第7章Android动画深入分析.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第7章Android动画深入分析.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第8章理解Window和WindowManager.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第8章理解Window和WindowManager.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Android开发艺术探索/第9章四大组件的工作过程.html" afterPath="$PROJECT_DIR$/_book/Android开发艺术探索/第9章四大组件的工作过程.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/index.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第10章并发.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第10章并发.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第11章序列化.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第11章序列化.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第1章引言.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第1章引言.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第2章创建和销毁对象.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第2章创建和销毁对象.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第3章对于所有对象都通用的方法.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第3章对于所有对象都通用的方法.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第4章类和接口.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第4章类和接口.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第5章泛型.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第5章泛型.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第6章枚举和注解.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第6章枚举和注解.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第7章方法.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第7章方法.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第8章通用程序设计.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第8章通用程序设计.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/EffectiveJava/第9章异常.html" afterPath="$PROJECT_DIR$/_book/EffectiveJava/第9章异常.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/index.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第10章DOM.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第10章DOM.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第11章DOM扩展.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第11章DOM扩展.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第12章DOM2和DOM3.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第12章DOM2和DOM3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第13章事件.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第13章事件.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第14章表单脚本.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第14章表单脚本.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第15章使用Canvas绘图.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第15章使用Canvas绘图.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第16章HTML5脚本编程.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第16章HTML5脚本编程.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第17章错误处理与调试.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第17章错误处理与调试.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第18章JavaScript与XML.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第18章JavaScript与XML.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第19章E4X.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第19章E4X.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第1章JavaScript简介.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第1章JavaScript简介.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第20章JOSN.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第20章JOSN.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第21章Ajax与Comet.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第21章Ajax与Comet.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第22章高级技巧.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第22章高级技巧.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第23章离线应用与客户端存储.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第23章离线应用与客户端存储.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第24章最佳实践.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第24章最佳实践.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第25章新兴的API.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第25章新兴的API.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第2章在HTML中使用JavaScript.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第2章在HTML中使用JavaScript.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第3章基本概念.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第3章基本概念.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第4章变量、作用域和内存问题.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第4章变量、作用域和内存问题.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第5章引用类型.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第5章引用类型.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第6章面向对象的程序设计.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第6章面向对象的程序设计.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第7章函数表达式.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第7章函数表达式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第8章BOM.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第8章BOM.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第9章客户端检测.html" afterPath="$PROJECT_DIR$/_book/JavaScript高级程序设计/第9章客户端检测.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/index.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第10章JavaIO系统.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第10章JavaIO系统.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第11章运行期类型鉴定.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第11章运行期类型鉴定.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第12章传递和返回对象.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第12章传递和返回对象.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第13章创建窗口和程序片.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第13章创建窗口和程序片.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第14章多线程.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第14章多线程.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第15章网络编程.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第15章网络编程.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第16章设计范式.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第16章设计范式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第17章项目.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第17章项目.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第1章对象入门.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第1章对象入门.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第2章一切都是对象.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第2章一切都是对象.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第3章控制程序流程.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第3章控制程序流程.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第4章初始化和清除.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第4章初始化和清除.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第5章隐藏实施过程.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第5章隐藏实施过程.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第6章类再生.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第6章类再生.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第7章多形性.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第7章多形性.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第8章对象容纳.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第8章对象容纳.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/第9章违例差错控制.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/第9章违例差错控制.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/Java编程思想/附录.html" afterPath="$PROJECT_DIR$/_book/Java编程思想/附录.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-donate/plugin.js" afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-donate/plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/index.html" afterPath="$PROJECT_DIR$/_book/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/代码整洁之道/index.html" afterPath="$PROJECT_DIR$/_book/代码整洁之道/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/代码整洁之道/第1章整洁代码.html" afterPath="$PROJECT_DIR$/_book/代码整洁之道/第1章整洁代码.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/代码整洁之道/第2章有意义的命名.html" afterPath="$PROJECT_DIR$/_book/代码整洁之道/第2章有意义的命名.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/代码整洁之道/第3章函数.html" afterPath="$PROJECT_DIR$/_book/代码整洁之道/第3章函数.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/代码整洁之道/第4章注释.html" afterPath="$PROJECT_DIR$/_book/代码整洁之道/第4章注释.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/代码整洁之道/第5章格式.html" afterPath="$PROJECT_DIR$/_book/代码整洁之道/第5章格式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/代码整洁之道/第6章对象和数据结构.html" afterPath="$PROJECT_DIR$/_book/代码整洁之道/第6章对象和数据结构.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/代码整洁之道/第7章错误处理.html" afterPath="$PROJECT_DIR$/_book/代码整洁之道/第7章错误处理.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/index.html" afterPath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第1章引言.html" afterPath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第1章引言.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第2章实例研究：设计一个文档编辑器.html" afterPath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第2章实例研究：设计一个文档编辑器.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第3章创建型模式.html" afterPath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第3章创建型模式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第4章结构型模式.html" afterPath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第4章结构型模式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第5章行为模式.html" afterPath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第5章行为模式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第6章结论.html" afterPath="$PROJECT_DIR$/_book/设计模式：可复用面向对象软件的基础/第6章结论.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/index.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第10章简化函数调用.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第10章简化函数调用.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第11章处理概括关系.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第11章处理概括关系.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第12章大型重构.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第12章大型重构.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第13章重构，复用与现实.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第13章重构，复用与现实.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第14章重构工具.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第14章重构工具.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第15章总结.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第15章总结.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第1章第一个案例.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第1章第一个案例.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第2章重构的原则.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第2章重构的原则.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第3章代码的坏味道.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第3章代码的坏味道.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第4章构筑测试体系.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第4章构筑测试体系.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第5章重构列表.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第5章重构列表.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第6章重新组织函数.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第6章重新组织函数.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第7章在对象之间搬移特性.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第7章在对象之间搬移特性.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第8章重新组织数据.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第8章重新组织数据.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第9章简化条件表达式.html" afterPath="$PROJECT_DIR$/_book/重构-改善既有代码的设计/第9章简化条件表达式.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/colors/LICENSE" afterPath="$PROJECT_DIR$/node_modules/colors/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/colors/README.md" afterPath="$PROJECT_DIR$/node_modules/colors/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/colors/examples/normal-usage.js" afterPath="$PROJECT_DIR$/node_modules/colors/examples/normal-usage.js" />
@@ -157,7 +264,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="FullScreen" value="true" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -243,7 +350,7 @@
       <workItem from="1524275829063" duration="4440000" />
       <workItem from="1524311267530" duration="340000" />
       <workItem from="1524538857114" duration="576000" />
-      <workItem from="1561018554467" duration="5000" />
+      <workItem from="1561018554467" duration="423000" />
     </task>
     <task id="LOCAL-00001" summary="activity">
       <created>1487407862166</created>
@@ -315,16 +422,24 @@
       <option name="project" value="LOCAL" />
       <updated>1524539208447</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="添加评论插件">
+      <created>1561018711420</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561018711420</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9240000" />
+    <option name="totallyTimeSpent" value="9658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -337,7 +452,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
