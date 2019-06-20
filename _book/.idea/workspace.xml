@@ -44,6 +44,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-baidu/README.md" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-baidu/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-baidu/book/plugin.js" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-baidu/book/plugin.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-baidu/index.js" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-baidu/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/assets/plugin.js" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-donate/assets/plugin.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-expandable-chapters-small/.npmignore" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-expandable-chapters-small/.npmignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-expandable-chapters-small/.project" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-expandable-chapters-small/.project" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-expandable-chapters-small/LICENSE" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-expandable-chapters-small/LICENSE" />
@@ -75,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/book.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="667">
-              <caret line="76" column="39" lean-forward="true" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+              <caret line="76" column="39" lean-forward="false" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -148,8 +149,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,7 +242,8 @@
       <workItem from="1517016931468" duration="8000" />
       <workItem from="1524275829063" duration="4440000" />
       <workItem from="1524311267530" duration="340000" />
-      <workItem from="1524538857114" duration="131000" />
+      <workItem from="1524538857114" duration="576000" />
+      <workItem from="1561018554467" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="activity">
       <created>1487407862166</created>
@@ -306,17 +308,24 @@
       <option name="project" value="LOCAL" />
       <updated>1524311557446</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加评论插件">
+      <created>1524539208447</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1524539208447</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8790000" />
+    <option name="totallyTimeSpent" value="9240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -351,13 +360,22 @@
     <MESSAGE value="添加插件配置" />
     <MESSAGE value="更改插件相关配置" />
     <MESSAGE value="修改打赏插件设置" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改打赏插件设置" />
+    <MESSAGE value="添加评论插件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加评论插件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -517,7 +535,7 @@
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
-          <caret line="76" column="39" lean-forward="true" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+          <caret line="76" column="39" lean-forward="false" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
           <folding />
         </state>
       </provider>
